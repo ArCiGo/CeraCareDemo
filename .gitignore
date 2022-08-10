@@ -46,3 +46,8 @@ node_modules/
 logs
 *.log
 npm-debug.log*
+
+# Some other files and folders
+cypress/reports/
+cypress/screenshots/
+cypress/videos/

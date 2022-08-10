@@ -1,3 +1,7 @@
 {
-    "baseUrl": "https://www.ceracare.co.uk"
+    "baseUrl": "https://www.ceracare.co.uk",
+    "reporter": "cypress-mochawesome-reporter",
+    "reporterOptions": {
+        "embeddedScreenshots": true
+    }
 }
