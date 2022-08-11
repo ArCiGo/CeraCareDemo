@@ -1,5 +1,19 @@
 # Carer Web - Technical Testing Task
 
+## Execute the tests ⚡️
+
+To execute the tests, to generate the report, just run the following command.-
+
+```bash
+npn run cypress:run
+```
+
+To see the report, just go to.-
+
+```bash
+cypress => reports => html > index.html
+```
+
 ## Scenario
 Carer jobs are constantly being added to our website. Using https://www.ceracare.co.uk/ (live website, don't bring it down please) complete the tasks below.
 
